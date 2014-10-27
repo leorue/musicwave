@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow: hidden;
+    font: 12px/1.5 tahoma,arial,sans-serif;
+}
+
+canvas {
+    background-color: black;
+}
+
+#hint {
+    position: absolute;
+    margin-left: -160px;
+    margin-top: -20px;
+    top: 50%;
+    left: 50%;
+    color : white;
+
+}
