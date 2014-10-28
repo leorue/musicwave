@@ -72,7 +72,7 @@ var javascriptNode;
 
 // load the sound
 setupAudioNodes();
-loadSound('music/sound.mp3');
+loadSound('music/solo.mp3');
 
 
 function setupAudioNodes() {
